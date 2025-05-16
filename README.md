@@ -2,9 +2,15 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Título</title>
+  
 </head>
 <body>
-gfhgfhgfg
+<div style="text-align: center;">
+  Este texto está centralizado.
+</div>
+
+
+  
+</div>
 </body>
 </html>

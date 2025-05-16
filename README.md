@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/qM1JvY8k/da2a0b43fd6e7bc84247af32c9698fdecfb6332e-1.gif" width: 300px; height: 200px;/>
+  <img src="https://i.postimg.cc/qM1JvY8k/da2a0b43fd6e7bc84247af32c9698fdecfb6332e-1.gif" width: 30px; height: 20px;/>
 </p>
 <h1 align="center">
   RecaiHD 

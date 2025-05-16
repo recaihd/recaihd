@@ -1,3 +1,6 @@
 <h1 align="center">
-  ai calica
+  RecaiHD
 </h1>
+<h3 align="center">
+  Developer e Admin
+</h3>

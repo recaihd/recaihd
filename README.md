@@ -1,3 +1,3 @@
-<p align="center">
+<h1 align="center">
   ai calica
-</p>
+</h1>

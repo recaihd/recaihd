@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://i.postimg.cc/MTQj8w43/5568-nekololidance.gif" />
+</p>
 <h1 align="center">
-  RecaiHD <img src="https://i.postimg.cc/MTQj8w43/5568-nekololidance.gif">
+  RecaiHD 
 </h1>
 <h3 align="center">
   Developer e Admin

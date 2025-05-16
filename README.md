@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.postimg.cc/59rD17SC/hqdefault.avif" alt="banner" height="50" width="50" />
+  <img src="https://i.postimg.cc/59rD17SC/hqdefault.avif" alt="banner" height="50" width="500" />
 </p>

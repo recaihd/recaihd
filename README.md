@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hhttps://i.postimg.cc/xdPK4wdb/fantasy-anime-wallpaper-by-yiksnapix-dhxyqvj-fullview.jpg" width="860" height="310" />
+  <img src="https://i.postimg.cc/xdPK4wdb/fantasy-anime-wallpaper-by-yiksnapix-dhxyqvj-fullview.jpg" width="860" height="310" />
 </p>
 <h1 align="center">
   RecaiHD

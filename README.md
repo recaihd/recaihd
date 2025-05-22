@@ -4,5 +4,5 @@
 <h1 align="center">RecaiHD</h1>
 <h3 align="center">Developer & Admin</h3>
 <h5 align="center">
-  Eu modero alguns servidores no Discord, tenho conhecimento em linguagens como JavaScript, Vendo sites e bots
+  Eu modero alguns servidores no Discord, tenho conhecimento em linguagens como JavaScript, Faço sites e bots
 </h5>

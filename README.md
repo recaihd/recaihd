@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/13PwTKjJ/did-a-frieren-screenshot-redraw-v0-9dgb7aehdjnc1.webp" width="860" height="310" />
+  <img src="https://i.postimg.cc/13PwTKjJ/did-a-frieren-screenshot-redraw-v0-9dgb7aehdjnc1.webp" width="660" height="310" />
 </p>
 <h1 align="center">
   RecaiHD

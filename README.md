@@ -6,11 +6,11 @@
 <h1 align="center">✨ RecaiHD ✨</h1>
 
 <p align="center">
-  <strong>Developer & Admin</strong><br>
-  <img src="https://img.shields.io/badge/Discord-RecaiHD%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <strong>Developer & Admin</strong><br><br>
+  <img src="https://img.shields.io/badge/Discord-RecaiHD%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;" />
 </p>
 
 ---
@@ -29,13 +29,13 @@
 
 <p align="center">
   <a href="https://discord.com/users/seu_id_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px;">
   </a>
   <a href="https://github.com/RecaiHD" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
   </a>
   <a href="https://instagram.com/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;">
   </a>
 </p>
 

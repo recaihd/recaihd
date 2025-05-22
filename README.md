@@ -5,6 +5,7 @@
   RecaiHD
 </h1>
 <h3 align="center">Developer e Admin</h3>
+<hr>
 <h5 align="center">
   Eu modero alguns servidores no Discord, tenho conhecimento em linguagens básicas como HTML, CSS e principalmente JavaScript.
 </h5>

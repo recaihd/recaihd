@@ -30,7 +30,7 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://discord.com/users/seu_id_aqui" target="_blank" rel="noopener noreferrer">
+  <a href="htps://discord.com/users/seu_id_aqui" target="_blank" rel="noopener noreferrer">
     <span style="display: inline-block;">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </span>

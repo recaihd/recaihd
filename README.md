@@ -27,15 +27,22 @@
 
 ---
 
-### 🌐 Conecte-se Comigo
+<h3 align="center">🌐 Conecte-se Comigo</h3>
 
 <p align="center">
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu_id_aqui)
+  <a href="https://discord.com/users/seu_id_aqui">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
   &nbsp;
-  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RecaiHD)
+  <a href="https://github.com/RecaiHD">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   &nbsp;
-  [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
+  <a href="https://instagram.com/seu_usuario">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
 
 ---
 

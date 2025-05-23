@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-
 ---
 
 ### 🧠 Sobre Mim
@@ -44,8 +43,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ### 🚀 Projetos Recentes
@@ -56,3 +53,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
+</p>

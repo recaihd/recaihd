@@ -49,16 +49,6 @@
   </a>
 </p>
 
-
-
----
-
-### 🚀 Projetos Recentes
-
-- 🎮 **Bots de Discord personalizados**
-- 🌐 **Sites responsivos e dinâmicos**
-- 🛠️ **Dashboards administrativos e ferramentas para moderação**
-
 ---
 
 <p align="center">

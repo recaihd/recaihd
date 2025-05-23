@@ -31,16 +31,19 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://discord.gg/UNuYBvZREC" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px;">
-  </a>  &nbsp;
-  <a href="https://github.com/RecaiHD" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
-  </a>  &nbsp;
-  <a href="https://instagram.com/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;">
+  <a href="https://discord.com/users/seu_id_aqui" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/RecaiHD" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/seu_usuario" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 

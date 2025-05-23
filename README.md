@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/13PwTKjJ/did-a-frieren-screenshot-redraw-v0-9dgb7aehdjnc1.webp" width="540" height="310" alt="RecaiHD Banner"/>
 </p>
 
-<h1 align="center">🛠️ RecaiHD</h1>
+<h1 align="center">RecaiHD</h1>
 
 <p align="center">
   <strong>Developer & Admin</strong> <br><br>

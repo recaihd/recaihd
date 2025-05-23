@@ -25,34 +25,6 @@
   <em>Se tiver interesse em algum projeto ou colaboração, me chame em alguma rede social abaixo 👇</em>
 </p>
 
----
-
-<h3 align="center">🌐 Conecte-se Comigo</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/seu_id_aqui">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  &nbsp;
-  <a href="https://github.com/RecaiHD">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/seu_usuario">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-
----
-
-### 🚀 Projetos Recentes
-
-- 🎮 **Bots de Discord personalizados**
-- 🌐 **Sites responsivos e dinâmicos**
-- 🛠️ **Dashboards administrativos e ferramentas para moderação**
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>

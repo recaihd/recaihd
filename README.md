@@ -1,6 +1,6 @@
 <!-- README.md estilizado -->
 <p align="center">
-  <img src="https://i.postimg.cc/fb4TVgqY/XRecorder-Edited-20250523-01-removebg-preview.png" alt="RecaiHD Banner"/>
+  <img src="https://i.postimg.cc/CKQyZZxX/XRecorder-Edited-20250523-01.jpg" alt="RecaiHD Banner"/>
 </p>
 
 <h1 align="center">RecaiHD</h1>

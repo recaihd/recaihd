@@ -31,10 +31,10 @@
     <img src="https://img.shields.io/badge/Twitch-18181B?style=flat&logo=twitch&logoColor=white&labelColor=9146FF" />
   </a>
   <a href="https://tiktok.com/@dornellestv" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-DORNELLESTV-18181B?style=flat&logo=tiktok&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/TikTok-18181B?style=flat&logo=tiktok&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://linkedin.com/in/rodrigo-poa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-IN%2FRODRIGO--POA-18181B?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   
 </p>

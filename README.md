@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://twitch.tv/dornellestv" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-DORNELLESTV-18181B?style=flat&logo=twitch&logoColor=white&labelColor=9146FF" />
+    <img src="https://img.shields.io/badge/Twitch-18181B?style=flat&logo=twitch&logoColor=white&labelColor=9146FF" />
   </a>
   <a href="https://tiktok.com/@dornellestv" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-DORNELLESTV-18181B?style=flat&logo=tiktok&logoColor=white&labelColor=000000" />

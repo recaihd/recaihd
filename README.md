@@ -36,9 +36,7 @@
   <a href="https://linkedin.com/in/rodrigo-poa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-IN%2FRODRIGO--POA-18181B?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://github.com/sponsors/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/GH%20Sponsors-0-FF69B4?style=flat&logo=githubsponsors&logoColor=white&labelColor=FF69B4" />
-  </a>
+  
 </p>
 
 

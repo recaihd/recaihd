@@ -30,12 +30,20 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UNuYBvZREC)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RecaiHD)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu_id_aqui)
+  &nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RecaiHD)
+  &nbsp;
+  [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
+</p>
 
+---
+
+### 🚀 Projetos Recentes
+
+- 🎮 **Bots de Discord personalizados**
+- 🌐 **Sites responsivos e dinâmicos**
+- 🛠️ **Dashboards administrativos e ferramentas para moderação**
 
 ---
 

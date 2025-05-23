@@ -16,12 +16,12 @@
 </p>
 
 ---
-
-### 🧠 Sobre Mim
+<p align="center">
+  ### 🧠 Sobre Mim
+</p>
 
 <p align="center">
-### 🧠 Sobre Mim
-  
+
   Eu modero alguns servidores no Discord, desenvolvo sites e bots<br>
   Se tiver interesse em algum projeto ou colaboração, me chame em qualquer uma das minhas redes sociais.
 </p>

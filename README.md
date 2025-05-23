@@ -26,6 +26,21 @@
   Se tiver interesse em algum projeto ou colaboração, me chame em qualquer uma das minhas redes sociais.
 </p>
 
+<p align="center">
+  <a href="https://twitch.tv/dornellestv" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-DORNELLESTV-9146FF?style=flat-square&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@dornellestv" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-DORNELLESTV-000000?style=flat-square&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rodrigo-poa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-IN%2FRODRIGO--POA-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sponsors/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/GH%20Sponsors-0-FF69B4?style=flat-square&logo=githubsponsors&logoColor=white" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>

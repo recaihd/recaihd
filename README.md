@@ -30,15 +30,15 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://discord.gg/UNuYBvZREC" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/UNuYBvZREC">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   &nbsp;
-  <a href="https://github.com/RecaiHD" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/RecaiHD">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/seu_usuario" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/seu_usuario">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>

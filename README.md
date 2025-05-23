@@ -20,8 +20,10 @@
 ### 🧠 Sobre Mim
 
 <p align="center">
+### 🧠 Sobre Mim
+  
   Eu modero alguns servidores no Discord, desenvolvo sites e bots<br>
-  <em>Se tiver interesse em algum projeto ou colaboração, me chame em qualquer uma das minhas redes sociais.</em>
+  Se tiver interesse em algum projeto ou colaboração, me chame em qualquer uma das minhas redes sociais.
 </p>
 
 

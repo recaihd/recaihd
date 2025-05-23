@@ -28,18 +28,19 @@
 
 <p align="center">
   <a href="https://twitch.tv/dornellestv" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-DORNELLESTV-9146FF?style=flat-square&logo=twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-DORNELLESTV-18181B?style=flat&logo=twitch&logoColor=white&labelColor=9146FF" />
   </a>
   <a href="https://tiktok.com/@dornellestv" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-DORNELLESTV-000000?style=flat-square&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-DORNELLESTV-18181B?style=flat&logo=tiktok&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://linkedin.com/in/rodrigo-poa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-IN%2FRODRIGO--POA-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-IN%2FRODRIGO--POA-18181B?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://github.com/sponsors/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/GH%20Sponsors-0-FF69B4?style=flat-square&logo=githubsponsors&logoColor=white" />
+    <img src="https://img.shields.io/badge/GH%20Sponsors-0-FF69B4?style=flat&logo=githubsponsors&logoColor=white&labelColor=FF69B4" />
   </a>
 </p>
+
 
 
 <p align="center">

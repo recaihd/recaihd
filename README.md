@@ -22,7 +22,7 @@
 <p align="center">
   Eu modero alguns servidores no Discord, desenvolvo sites e bots utilizando <strong>JavaScript</strong>.<br>
   Tenho experiência em administração de comunidades e automações com bots.<br><br>
-  <em>Se tiver interesse em algum projeto ou colaboração, me chame em alguma rede social abaixo 👇</em>
+  <em>Se tiver interesse em algum projeto ou colaboração, me chame em qualquer uma das minhas redes sociais.</em>
 </p>
 
 

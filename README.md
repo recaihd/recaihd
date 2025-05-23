@@ -1,6 +1,6 @@
 <!-- README.md estilizado -->
 <p align="center">
-  <img src="https://i.postimg.cc/mrHPCS8W/Imagem-do-Whats-App-de-2025-05-04-s-13-41-26-ed2b7aae.jpg" alt="RecaiHD Banner"/>
+  <img src="https://i.postimg.cc/fb4TVgqY/XRecorder-Edited-20250523-01-removebg-preview.png" alt="RecaiHD Banner"/>
 </p>
 
 <h1 align="center">RecaiHD</h1>

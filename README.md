@@ -17,7 +17,7 @@
 
 ---
 <h3 align="center">
-🧠 Sobre Mim
+Sobre Mim
 </p>
 
 <h3 align="center">

@@ -14,9 +14,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/180px-Java_programming_language_logo.svg.png" width="40" alt="Java Logo"/>
-
-
 </p>
 
 

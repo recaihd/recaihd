@@ -14,6 +14,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Java%2C%20007396%2C%20java%2C%20for-the-badge" />
+
 </p>
 
 

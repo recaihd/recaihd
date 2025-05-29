@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   &nbsp;
-  <img src="http://www.w3.org/2000/svg" />
+ 
 
 </p>
 

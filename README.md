@@ -1,6 +1,6 @@
 <!-- README.md estilizado -->
 <p align="center">
-  <img src="https://i.postimg.cc/JhRHxVFc/1748042411676.png" alt="RecaiHD Banner"/>
+  <img src="https://i.postimg.cc/hPR67GWS/Frieren.webp" alt="RecaiHD Banner"/>
 </p>
 
 <h1 align="center">RecaiHD</h1>

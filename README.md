@@ -14,6 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   &nbsp;
+  <img src="https://camo.githubusercontent.com/c4afffecd4c1ae4d595927b5445ed8589bef44db081c83cf9b9da45e9efc5307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a732c6e6f64656a732c6370702c646973636f72646a732c68746d6c2c6373732c7673636f64652c6769742c676974687562" />
 
 </p>
 

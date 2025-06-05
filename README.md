@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/t4Tf9tvG/PMCjs3.gif" />
+<img src="https://i.postimg.cc/Qt1N0rcm/bannerfrieren.jpg" />
 </p>
 
 <div align="center">

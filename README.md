@@ -1,4 +1,4 @@
-<!-- README.md estilizado -->
+
 <p align="center">
   <img src="https://i.postimg.cc/xjbVVF5x/nirawindowsxp-resized-banner.png" alt="RecaiHD Banner"/>
 </p>

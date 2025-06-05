@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/Qt1N0rcm/bannerfrieren.jpg" />
+<img src="https://i.postimg.cc/SxRXz9Q0/Picsart-25-06-05-17-09-05-238-1.jpg" />
 </p>
 
 

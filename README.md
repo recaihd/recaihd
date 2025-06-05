@@ -2,15 +2,7 @@
 <img src="https://i.postimg.cc/Qt1N0rcm/bannerfrieren.jpg" />
 </p>
 
-<div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=recaihd&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" height="180" alt="recaihd's GitHub Stats" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recaihd&layout=compact&theme=tokyonight" height="180" alt="Top Langs" />
-
-</div>
 
 
 <h1 align="center">RecaiHD</h1>
@@ -28,7 +20,15 @@
 
 </p>
 
+<div align="center">
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=recaihd&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" height="180" alt="recaihd's GitHub Stats" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recaihd&layout=compact&theme=tokyonight" height="180" alt="Top Langs" />
+
+</div>
 
 ---
 <h3 align="center">

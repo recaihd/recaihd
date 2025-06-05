@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://i.postimg.cc/xjbVVF5x/nirawindowsxp-resized-banner.png" alt="RecaiHD Banner"/>
-</p>
 
 <div align="center">
 

@@ -3,6 +3,17 @@
   <img src="https://i.postimg.cc/xjbVVF5x/nirawindowsxp-resized-banner.png" alt="RecaiHD Banner"/>
 </p>
 
+<div align="center">
+
+## 📊 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=recaihd&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="recaihd's GitHub Stats" />
+
+## 🧠 Linguagens Mais Usadas  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recaihd&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+</div>
+
+
 <h1 align="center">RecaiHD</h1>
 
 <p align="center">

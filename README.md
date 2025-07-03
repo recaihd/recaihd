@@ -8,7 +8,7 @@
 <h1 align="center">RecaiHD</h1>
 
 <p align="center">
-  <strong>Developer & Admin</strong> <br><br>
+  <strong>Developeer & Admin</strong> <br><br>
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   &nbsp;

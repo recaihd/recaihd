@@ -66,3 +66,5 @@ Sobre Mim
 </p>
 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">

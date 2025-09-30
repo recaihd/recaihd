@@ -70,3 +70,5 @@ Sobre Mim
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg">

@@ -45,16 +45,14 @@ Sobre Mim
 </p>
 
 
-<h3>
+<h3 align="center">
   Linguagens e Ferramentas
 </h3>
 
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
-</p>
+
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="50px">
 
@@ -68,4 +66,9 @@ Sobre Mim
 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="50px">
 
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </p>

@@ -65,10 +65,10 @@ Sobre Mim
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </p>
 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" widht="50px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="50px">
 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" widht="50px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50px">
 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" widht="50px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50px">
 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" widht="50px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="50px">

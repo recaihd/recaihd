@@ -41,22 +41,13 @@ Sobre Mim
 
 <h3 align="center">
 
-  Eu modero alguns servidores no Discord, desenvolvo sites e bots<br>
-  Se tiver interesse em algum projeto ou colaboração, me chame em qualquer uma das minhas redes sociais.
+  Eu modero alguns servidores no Discord, desenvolvo sites e bots
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/https://discord.com/users/1261444362039070855" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://instagram.com/recaihd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:ricardosouspixtudo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
+<h3>
+  Linguagens e Ferramentas
+</h3>
 
 
 

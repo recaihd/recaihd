@@ -44,7 +44,7 @@ Sobre Mim
   Eu modero alguns servidores no Discord, desenvolvo sites e bots
 </p>
 
-
+<br>
 <h3 align="center">
   Linguagens e Ferramentas
 </h3>

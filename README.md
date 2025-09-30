@@ -65,4 +65,4 @@ Sobre Mim
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </p>
 
-
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">

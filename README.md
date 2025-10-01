@@ -1,4 +1,4 @@
-<!-- redminzinhoooooo -->
+<!-- redminzinhoosoooo -->
 
 <p align="center">
 <img src="https://i.postimg.cc/8kW4XfwS/recai-2.png" />

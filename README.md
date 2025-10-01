@@ -59,7 +59,7 @@ Sobre Mim
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50px">
 &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50px">
-
+&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="50px">
 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="50px">

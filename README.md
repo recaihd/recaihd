@@ -6,16 +6,6 @@
 
 
 
-
-<h1 align="center">RecaiHD</h1>
-
-<p align="center">
-  <strong>Developer & Admin</strong> <br><br>
-
- 
-
-</p>
-
 <div align="center">
 
 

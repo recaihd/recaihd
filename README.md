@@ -1,7 +1,7 @@
 <!-- redminzinhoosooooo -->
 
 <p align="center">
-<img src="https://i.postimg.cc/8kW4XfwS/recai-2.png" />
+<img src="https://i.postimg.cc/TPgyW36W/recai.png" />
 </p>
 
 

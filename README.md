@@ -37,20 +37,32 @@ Sobre Mim
 
 
 
-<p align="center">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="50px">
-&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50px">
-&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50px">
-&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="50px">
-&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="50px">
-
-
-
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="48" height="48" alt="Github" />
+        <br>Github
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Vscode" />
+        <br>Vscode
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <p align="center">

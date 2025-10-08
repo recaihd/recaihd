@@ -1,7 +1,7 @@
 <!-- redminzinhoosooooooooo -->
 
 <p align="center">
-<img src="https://i.postimg.cc/wv4NT0kb/Untitled-Project.jpg" />
+<img src="https://i.postimg.cc/8zGmYXXW/Untitled-Project-1.jpg" />
 </p>
 
 

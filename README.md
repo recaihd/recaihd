@@ -69,6 +69,10 @@ Sobre Mim
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Vscode" />
         <br>Vscode
       </td>
+            <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
     </tr>
   </table>
 </div>

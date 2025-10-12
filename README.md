@@ -72,6 +72,32 @@ Sobre Mim
 </div>
 
 
+<h3 align="center">
+  Entre em contato
+</h3>
+
+
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" height="48" alt="Instagram" />
+        <br>Instagram
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="48" height="48" alt="Discord" />
+        <br>Discord
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48" height="48" alt="E-mail" />
+        <br>E-mail
+      </td>
+</div>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </p>

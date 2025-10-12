@@ -78,7 +78,9 @@ Sobre Mim
         <br>Github
       </td>
       <td align="center" width="96">
+        <a href="https://code.visualstudio.com/">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Vscode" />
+        </a>
         <br>Vscode
       </td>
             <td align="center" width="96">

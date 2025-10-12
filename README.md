@@ -108,6 +108,8 @@ Sobre Mim
         <a href="https://x.com/Recaidopao">
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="48" height="48" alt="Twitter" />
         </a>
+        <br>Twitter
+      </td>
     </tr>
   </table>
 </div>

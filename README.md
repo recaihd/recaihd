@@ -55,8 +55,7 @@ Sobre Mim
        <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
-      </td>
-      <br>
+      </td><br>
                  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
         <br>NodeJS

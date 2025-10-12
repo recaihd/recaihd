@@ -81,7 +81,7 @@ Sobre Mim
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://instagram.com/@recaihd" target="_blank">
+        <a href="https://instagram.com/recaihd" target="_blank">
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" height="48" alt="Instagram" />
         </a>
         <br>Instagram

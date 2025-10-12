@@ -67,7 +67,9 @@ Sobre Mim
     </tr>
     <tr>
                  <td align="center" width="96">
+                   <a href="https://nodejs.org/pt">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
+                   </a>
         <br>NodeJS
       <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="48" height="48" alt="Github" />

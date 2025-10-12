@@ -40,7 +40,7 @@ Sobre Mim
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="background-color: #0d1117;">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
       </td>

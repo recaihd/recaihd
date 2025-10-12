@@ -47,7 +47,9 @@ Sobre Mim
         <br>JavaScript
       </td>
       <td align="center" width="96">
+        <a href="https://devdocs.io/html/">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
+        </a>
         <br>HTML
       </td>
       <td align="center" width="96">

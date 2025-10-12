@@ -84,7 +84,7 @@ Sobre Mim
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" height="48" alt="Instagram" />
+       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" height="48" alt="Instagram" />
         <br>Instagram
       </td>
       <td align="center" width="96">

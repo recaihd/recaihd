@@ -81,16 +81,24 @@ Sobre Mim
   <table>
     <tr>
       <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" height="48" alt="Instagram" />
+        <a href="https://instagram.com/@recaihd" target="_blank">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" height="48" alt="Instagram" />
+        </a>
         <br>Instagram
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="48" height="48" alt="Discord" />
+        <a href="https://discord.com/invite/UNuYBvZREC" target="_blank">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="48" height="48" alt="Discord" />
+        </a>
         <br>Discord
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48" height="48" alt="E-mail" />
+        <a href="mailto:ricardosousapixtudo@gmail.com">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48" height="48" alt="E-mail" />
+        </a>
         <br>E-mail
       </td>
+    </tr>
+  </table>
 </div>
 

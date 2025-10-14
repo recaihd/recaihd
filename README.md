@@ -118,7 +118,7 @@ Sobre Mim
         <a href="mailto:ricardosousapixtudo@gmail.com">
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48" height="48" alt="E-mail" />
         </a>
-        <br>E-mail
+        <br>Gmail
       </td>
       <td align="center" width="96">
         <a href="https://x.com/Recaidopao">

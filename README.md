@@ -109,7 +109,7 @@ Sobre Mim
         <br>Instagram
       </td>
       <td align="center" width="96">
-        <a href="https://discord.com/invite/UNuYBvZREC" target="_blank">
+        <a href="https://discord.gg/recaihd" target="_blank">
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="48" height="48" alt="Discord" />
         </a>
         <br>Discord

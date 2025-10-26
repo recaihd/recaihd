@@ -41,40 +41,28 @@ Sobre Mim
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://devdocs.io/javascript/">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
-        </a>
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <a href="https://devdocs.io/html/">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
-        </a>
         <br>HTML
       </td>
       <td align="center" width="96">
-        <a href="https://devdocs.io/css/">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
-        </a>
         <br>CSS
       </td>
        <td align="center" width="96">
-         <a href="https://www.postgresql.org/">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
-         </a>
         <br>PostgreSQL
       </td>
     </tr>
     <tr>
                  <td align="center" width="96">
-                   <a href="https://nodejs.org/pt">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
-                   </a>
         <br>NodeJS
       <td align="center" width="96">
-        <a href="https://github.com/">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="48" height="48" alt="Github" />
-        </a>
         <br>Github
       </td>
       <td align="center" width="96">

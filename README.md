@@ -84,9 +84,7 @@ Sobre Mim
         <br>Vscode
       </td>
             <td align="center" width="96">
-              <a href="https://git-scm.com/">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" />
-              </a>
         <br>Git
       </td>
     </tr>

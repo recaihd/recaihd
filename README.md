@@ -60,7 +60,7 @@ Sobre Mim
         <br>Vscode
       </td>
             <td align="center" width="96">
-        <img title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg" width="48" height="48" alt="Git" />
+        <img title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" />
         <br>Git
       </td>
     </tr>

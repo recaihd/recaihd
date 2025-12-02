@@ -90,7 +90,7 @@ Sobre Mim
       </td>
       <td align="center" width="96">
         <a href="mailto:ricardosousapixtudo@gmail.com">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48" height="48" alt="E-mail" />
+          <img title="Email" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48" height="48" alt="E-mail" />
         </a>
         <br>Email
       </td>

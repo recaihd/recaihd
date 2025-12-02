@@ -43,7 +43,7 @@ Sobre Mim
         <br>CSS
       </td>
        <td align="center" width="96">
-        <img title="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="PostgreSQL" />
+        <img title="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="PythonL" />
         <br>PostgreSQL
       </td>
     </tr>

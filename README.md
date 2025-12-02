@@ -96,7 +96,7 @@ Sobre Mim
       </td>
       <td align="center" width="96">
         <a href="https://x.com/Recaidopao">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="48" height="48" alt="Twitter" />
+          <img title="Twitter (X)" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="48" height="48" alt="Twitter" />
         </a>
         <br>Twitter
       </td>

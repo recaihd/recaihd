@@ -44,7 +44,7 @@ Sobre Mim
       </td>
        <td align="center" width="96">
         <img title="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="PythonL" />
-        <br>PostgreSQL
+        <br>Python
       </td>
     </tr>
     <tr>

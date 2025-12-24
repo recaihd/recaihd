@@ -53,12 +53,12 @@ Sobre Mim
         <img title="NodeJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
         <br>NodeJS
       <td align="center" width="96">
-        <img title="Github" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" width="48" height="48" alt="Github" />
-        <br>Github
+        <img title="Vscode" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Github" />
+        <br>Vscode
       </td>
       <td align="center" width="96">
-        <img title="Vscode" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Vscode" />
-        <br>Vscode
+        <img title="MongoDB" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" width="48" height="48" alt="Vscode" />
+        <br>MongoDB
       </td>
             <td align="center" width="96">
         <img title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" />

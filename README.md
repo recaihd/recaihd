@@ -53,7 +53,7 @@ Sobre Mim
         <img title="NodeJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
         <br>NodeJS
       <td align="center" width="96">
-        <img title="Github" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="48" height="48" alt="Github" />
+        <img title="Github" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" width="48" height="48" alt="Github" />
         <br>Github
       </td>
       <td align="center" width="96">

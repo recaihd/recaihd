@@ -58,8 +58,8 @@ Sobre Mim
         <br>Vscode
       </td>
       <td align="center" width="96">
-        <img title="MongoDB" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/c.svg" width="48" height="48" alt="Vscode" />
-        <br>MongoDB
+        <img title="C" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/c.svg" width="48" height="48" alt="Vscode" />
+        <br>C
       </td>
             <td align="center" width="96">
         <img title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" />

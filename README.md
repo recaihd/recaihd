@@ -58,7 +58,7 @@ Sobre Mim
         <br>Vscode
       </td>
       <td align="center" width="96">
-        <img title="C" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/c.svg" width="48" height="48" alt="Vscode" />
+        <img title="C" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cpp.svg" width="48" height="48" alt="Vscode" />
         <br>C
       </td>
             <td align="center" width="96">

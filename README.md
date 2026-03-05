@@ -105,7 +105,7 @@ Sobre Mim
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/recaihd/recaihd/output/github-contribution-grid-snake.svg?v=pacman" alt="Pacman Contribution Graph" />
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
 </div>
 
 <h3 align="center">

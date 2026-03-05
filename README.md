@@ -7,10 +7,6 @@
 </p>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg" alt="Contribution Graph" />
-</div>
-
 
 ---
 <h3 align="center">

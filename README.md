@@ -104,6 +104,10 @@ Sobre Mim
   </table>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/recaihd/recaihd/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Graph" />
+</div>
+
 <h3 align="center">
   Visitas no perfil
 </h3>

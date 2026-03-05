@@ -3,23 +3,24 @@ name: Generate Datas
 on:
   schedule: # Roda a cada 24 horas
     - cron: "0 0 * * *" 
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
+      # Aqui está a mágica do Pac-Man
+      - name: generate-pacman-graph
         uses: Platane/snk@v3
         with:
           github_user_name: recaihd
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffff00&color_dots=#bfbdbe,#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push results to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

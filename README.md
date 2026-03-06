@@ -105,7 +105,7 @@ Sobre Mim
 </div>
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/recaihd/recaihd/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" />
+  <img height="100" src="https://raw.githubusercontent.com/recaihd/recaihd/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" />
 </div>
 
 <h3 align="center">

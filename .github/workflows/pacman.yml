@@ -1,9 +1,9 @@
 name: Generate Pacman Graph
 
 on:
-  schedule: # Roda automaticamente todo dia à meia-noite
+  schedule: 
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite que você rode manualmente agora
+  workflow_dispatch: 
 
 jobs:
   generate:
@@ -13,7 +13,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: recaihd
-          # Opções: github, github-dark, ocean, midnight, etc.
+          
           github_graph_theme: github-dark 
           
       - name: Push to Output

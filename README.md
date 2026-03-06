@@ -103,7 +103,7 @@ Sobre Mim
     </tr>
   </table>
 </div>
-
+ <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/recaihd/recaihd/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" />
 </div>

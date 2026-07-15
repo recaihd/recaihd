@@ -15,7 +15,7 @@ Sobre Mim
 
 <h3 align="center">
 
-  Eu modero alguns servidores no Discord, desenvolvo sites e bots
+  Desenvolvo sites, bots, aplicativos
 </p>
 
 
@@ -48,9 +48,10 @@ Sobre Mim
       </td>
     </tr>
     <tr>
-                 <td align="center" width="96">
+      <td align="center" width="96">
         <img title="NodeJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
         <br>NodeJS
+      </td>
       <td align="center" width="96">
         <img title="TypeScript" src="https://github.com/recaihd/skill-icons2/blob/main/assets/typescript.svg" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
@@ -59,9 +60,27 @@ Sobre Mim
         <img title="C++" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cpp.svg" width="48" height="48" alt="Vscode" />
         <br>C++
       </td>
-            <td align="center" width="96">
+      <td align="center" width="96">
         <img title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" />
         <br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img title="C" src="https://github.com/recaihd/skill-icons2/blob/main/assets/c.svg" width="48" height="48" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img title="Java" src="https://github.com/recaihd/skill-icons2/blob/main/assets/java-auto.svg" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img title="React" src="https://github.com/recaihd/skill-icons2/blob/main/assets/react-auto.svg" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img title="Rust" src="https://github.com/recaihd/skill-icons2/blob/main/assets/rust-auto.svg" width="48" height="48" alt="Rust" />
+        <br>Rust
       </td>
     </tr>
   </table>

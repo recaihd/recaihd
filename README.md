@@ -15,7 +15,7 @@ Sobre Mim
 
 <h3 align="center">
 
-  Meu nome e Ricardo, Comecei a programar quando eu tinha 15 anos, Desenvolvo sites, bots, aplicativos, Gerencio diversas comunidades online, Para um orçamento, Me chame em qualquer uma das minhas redes abaixo.
+  Meu nome e Ricardo, Comecei a programar quando eu tinha 15 anos, Desenvolvo Aplicativos, Sites, Bots, Gerencio diversas comunidades online, Para um orçamento, Me chame em qualquer uma das minhas redes abaixo.
 </p>
 
 

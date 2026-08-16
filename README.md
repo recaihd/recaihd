@@ -15,7 +15,7 @@ Sobre Mim
 
 <h3 align="center">
 
-  Desenvolvo sites, bots, aplicativos
+  Meu nome e Ricardo, Comecei a programar aos 15 anos, Desenvolvo sites, bots, aplicativos, Gerencio diversas comunidades online, Para um orçamento, Me chame em qualquer uma das minhas redes abaixo.
 </p>
 
 

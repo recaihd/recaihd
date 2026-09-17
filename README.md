@@ -3,7 +3,7 @@
 <!-- aaaaaasd -->
 
 <p align="center">
-<img title="console.log(recaida)" src="https://i.postimg.cc/prXdZJdg/Chat-GPT-Image-17-de-set-de-2026-09-13-01.png" />
+<img title="console.log(Welcome GitHub profile <3)" src="https://i.postimg.cc/jdDxS5nW/fern-fofinha.png" />
 </p>
 
 
